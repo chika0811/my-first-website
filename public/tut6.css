@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: whitesmoke;
+    margin: 20;
+    padding: 0;
+    text-align: left;
+}
+h1 {
+    color: green;
+    margin-top: 50px;    
+}
+ul {
+    color: black;
+    margin-top: 50px;
+}
+ol {
+    color: orangered;
+    margin-top: 50px;
+}
